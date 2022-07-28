@@ -9,10 +9,10 @@
 As you can see the image that is below to the heading text by that I came to know about the background-size(cover)
 And Linear gradient can only be used set to a background not to background-color property.
 
-[Visit this website](https://abhi-project-1.netlify.app/)
+[Visit this website](https://abhi-project-2.netlify.app/)
 
 
 #
 
-To see my work visit my [Portfolio]("my-portfolio-website")
+To see my work visit my [Portfolio](https://portfolio-of-abhishek.netlify.app)
 
